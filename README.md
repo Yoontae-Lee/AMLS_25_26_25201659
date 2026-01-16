@@ -1,4 +1,4 @@
-# AMLS BreastMNIST Benchmark (SVM vs ResNet)
+# AMLS BreastMNIST Benchmark (SVM & ResNet)
 
 This repository benchmarks two models on BreastMNIST (28x28 grayscale breast ultrasound images, binary classification):
 - Model A: classical SVM 
